@@ -1,2 +1,2 @@
-# bonezegei-net-BZN-
-Bonezegei Network BZN
+# bonezegei-net (BZN)
+
